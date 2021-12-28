@@ -14,3 +14,6 @@ Refer to the blogs:
 my mavenCenter space:
 
 https://issues.sonatype.org/browse/OSSRH-76730
+
+官方部署指南：
+- https://central.sonatype.org/publish/publish-guide/#deployment
